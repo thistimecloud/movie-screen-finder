@@ -271,6 +271,14 @@ function renderSchedule() {
 
     const seatBarWidth = (item.theater.maxSeats / maxSeatsGlobal * 100).toFixed(1);
 
+    // Build screen list HTML
+    const screensListHtml = item.theater.screens.map(s => `
+      <div style="background: rgba(255,255,255,0.05); padding: 6px 10px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; gap: 8px;">
+        <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${escapeHtml(s.name)}</span>
+        <span style="color: var(--gold); font-weight: bold; flex-shrink: 0;">${s.seats}席</span>
+      </div>
+    `).join('');
+
     // Build schedule HTML
     let scheduleHtml = '';
     item.schedule.forEach((sch) => {
@@ -285,6 +293,8 @@ function renderSchedule() {
       });
     });
 
+    const googleSearchUrl = `https://www.google.com/search?q=${encodeURIComponent(item.theater.name + ' 上映スケジュール')}`;
+
     card.innerHTML = `
       <div class="theater-card-header">
         <div style="display: flex; align-items: flex-start; gap: 12px; flex: 1; min-width: 0;">
@@ -294,9 +304,15 @@ function renderSchedule() {
             <div class="theater-area">${escapeHtml(item.theater.area)}</div>
           </div>
         </div>
-        <div class="theater-badge-group">${badges}</div>
+        <div style="display: flex; flex-direction: column; align-items: flex-end; gap: 8px;">
+          <div class="theater-badge-group">${badges}</div>
+          <a href="${googleSearchUrl}" target="_blank" rel="noopener noreferrer" style="font-size: 0.75rem; color: #aaa; text-decoration: none; border: 1px solid rgba(255,255,255,0.2); padding: 4px 10px; border-radius: 20px; display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+            <span>公式サイトでスクリーンを確認</span>
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
       </div>
-      <div class="seat-bar-container">
+      <div class="seat-bar-container" style="margin-bottom: 8px;">
         <div class="seat-bar">
           <span class="seat-bar-label">最大スクリーン</span>
           <div class="seat-bar-track">
@@ -305,6 +321,12 @@ function renderSchedule() {
           <span class="seat-bar-value">${item.theater.maxSeats}席</span>
         </div>
       </div>
+      <details style="margin-bottom: 16px; font-size: 0.85rem; color: var(--text-muted);">
+        <summary style="cursor: pointer; opacity: 0.8; user-select: none;">この映画館の全スクリーン一覧を開く (${item.theater.screens.length}スクリーン)</summary>
+        <div style="margin-top: 10px; display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 8px;">
+          ${screensListHtml}
+        </div>
+      </details>
       <div class="schedule-grid">${scheduleHtml}</div>
     `;
 
