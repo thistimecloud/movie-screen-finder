@@ -1,0 +1,395 @@
+{
+  "theaters": [
+    {
+      "name": "グランドシネマサンシャイン 池袋",
+      "area": "池袋",
+      "eigaPath": "13/130501/3291",
+      "screens": [
+        { "name": "IMAX シアター12", "seats": 542, "type": "IMAX レーザー/GT" },
+        { "name": "シアター3", "seats": 383, "type": "通常" },
+        { "name": "BESTIA シアター5", "seats": 348, "type": "BESTIA" },
+        { "name": "BESTIA シアター6", "seats": 237, "type": "BESTIA" },
+        { "name": "シアター11", "seats": 176, "type": "通常" },
+        { "name": "ULTRA 4DX シアター4", "seats": 160, "type": "4DX" },
+        { "name": "シアター10", "seats": 154, "type": "通常" },
+        { "name": "シアター2", "seats": 113, "type": "通常" },
+        { "name": "シアター9", "seats": 105, "type": "通常" },
+        { "name": "シアター1", "seats": 83, "type": "通常" },
+        { "name": "シアター7", "seats": 81, "type": "通常" },
+        { "name": "シアター8", "seats": 81, "type": "通常" }
+      ],
+      "maxSeats": 542
+    },
+    {
+      "name": "丸の内ピカデリー",
+      "area": "有楽町",
+      "eigaPath": "13/130102/3011",
+      "screens": [
+        { "name": "ピカデリー1", "seats": 623, "type": "通常" },
+        { "name": "ピカデリー2", "seats": 434, "type": "通常" },
+        { "name": "ドルビーシネマ", "seats": 255, "type": "Dolby Cinema" }
+      ],
+      "maxSeats": 623
+    },
+    {
+      "name": "TOHOシネマズ 六本木ヒルズ",
+      "area": "六本木",
+      "eigaPath": "13/130401/3047",
+      "screens": [
+        { "name": "スクリーン7", "seats": 523, "type": "TCX" },
+        { "name": "スクリーン2", "seats": 344, "type": "通常" },
+        { "name": "スクリーン9", "seats": 249, "type": "通常" },
+        { "name": "スクリーン1", "seats": 159, "type": "通常" },
+        { "name": "スクリーン3", "seats": 133, "type": "通常" },
+        { "name": "スクリーン6", "seats": 122, "type": "通常" },
+        { "name": "スクリーン5", "seats": 106, "type": "通常" },
+        { "name": "スクリーン8", "seats": 102, "type": "MX4D" },
+        { "name": "スクリーン4", "seats": 99, "type": "通常" }
+      ],
+      "maxSeats": 523
+    },
+    {
+      "name": "TOHOシネマズ 新宿",
+      "area": "新宿",
+      "eigaPath": "13/130201/3263",
+      "screens": [
+        { "name": "スクリーン9", "seats": 481, "type": "TCX" },
+        { "name": "スクリーン7", "seats": 389, "type": "通常" },
+        { "name": "スクリーン10", "seats": 302, "type": "IMAX レーザー" },
+        { "name": "スクリーン4", "seats": 200, "type": "通常" },
+        { "name": "スクリーン5", "seats": 184, "type": "通常" },
+        { "name": "スクリーン3", "seats": 128, "type": "通常" },
+        { "name": "スクリーン11", "seats": 122, "type": "通常" },
+        { "name": "スクリーン6", "seats": 117, "type": "通常" },
+        { "name": "スクリーン2", "seats": 108, "type": "MX4D" },
+        { "name": "スクリーン8", "seats": 88, "type": "通常" },
+        { "name": "スクリーン1", "seats": 86, "type": "通常" },
+        { "name": "スクリーン12", "seats": 73, "type": "通常" }
+      ],
+      "maxSeats": 481
+    },
+    {
+      "name": "TOHOシネマズ 日比谷",
+      "area": "有楽町",
+      "eigaPath": "13/130102/3281",
+      "screens": [
+        { "name": "スクリーン1", "seats": 439, "type": "TCX" },
+        { "name": "スクリーン4", "seats": 335, "type": "通常" },
+        { "name": "スクリーン9", "seats": 335, "type": "通常" },
+        { "name": "スクリーン13", "seats": 309, "type": "通常" },
+        { "name": "スクリーン12", "seats": 266, "type": "通常" },
+        { "name": "スクリーン3", "seats": 251, "type": "通常" },
+        { "name": "スクリーン8", "seats": 251, "type": "通常" },
+        { "name": "スクリーン5", "seats": 118, "type": "通常" },
+        { "name": "スクリーン6", "seats": 118, "type": "通常" },
+        { "name": "スクリーン7", "seats": 118, "type": "通常" },
+        { "name": "スクリーン10", "seats": 118, "type": "通常" },
+        { "name": "スクリーン11", "seats": 98, "type": "通常" },
+        { "name": "スクリーン2", "seats": 95, "type": "プレミアムシアター" }
+      ],
+      "maxSeats": 439
+    },
+    {
+      "name": "新宿バルト9",
+      "area": "新宿",
+      "eigaPath": "13/130201/3016",
+      "screens": [
+        { "name": "シアター9", "seats": 429, "type": "通常" },
+        { "name": "シアター6", "seats": 405, "type": "通常" },
+        { "name": "シアター8", "seats": 251, "type": "通常" },
+        { "name": "シアター5", "seats": 226, "type": "通常" },
+        { "name": "シアター3", "seats": 148, "type": "通常" },
+        { "name": "シアター2", "seats": 137, "type": "通常" },
+        { "name": "シアター4", "seats": 80, "type": "通常" },
+        { "name": "シアター7", "seats": 80, "type": "通常" },
+        { "name": "シアター1", "seats": 69, "type": "通常" }
+      ],
+      "maxSeats": 429
+    },
+    {
+      "name": "ユナイテッド・シネマ 豊洲",
+      "area": "豊洲",
+      "eigaPath": "13/130708/3079",
+      "screens": [
+        { "name": "スクリーン10", "seats": 413, "type": "通常" },
+        { "name": "スクリーン1", "seats": 267, "type": "通常" },
+        { "name": "スクリーン8", "seats": 233, "type": "通常" },
+        { "name": "スクリーン4", "seats": 118, "type": "通常" },
+        { "name": "スクリーン3", "seats": 114, "type": "通常" },
+        { "name": "スクリーン2", "seats": 109, "type": "通常" },
+        { "name": "スクリーン7", "seats": 104, "type": "4DX" },
+        { "name": "スクリーン9", "seats": 102, "type": "通常" },
+        { "name": "スクリーン11", "seats": 78, "type": "通常" },
+        { "name": "スクリーン12", "seats": 78, "type": "通常" },
+        { "name": "スクリーン5", "seats": 70, "type": "通常" },
+        { "name": "スクリーン6", "seats": 70, "type": "通常" }
+      ],
+      "maxSeats": 413
+    },
+    {
+      "name": "T・ジョイPRINCE品川",
+      "area": "品川",
+      "eigaPath": "13/130703/3080",
+      "screens": [
+        { "name": "シアター11 IMAX", "seats": 358, "type": "IMAX レーザー" },
+        { "name": "シアター3", "seats": 208, "type": "通常" },
+        { "name": "シアター5", "seats": 208, "type": "通常" },
+        { "name": "シアター6", "seats": 208, "type": "通常" },
+        { "name": "シアター8", "seats": 208, "type": "通常" },
+        { "name": "シアター9", "seats": 208, "type": "通常" },
+        { "name": "シアター2", "seats": 188, "type": "通常" },
+        { "name": "シアター10", "seats": 188, "type": "通常" },
+        { "name": "シアター7", "seats": 122, "type": "通常" },
+        { "name": "シアター1", "seats": 117, "type": "通常" },
+        { "name": "シアター4", "seats": 117, "type": "通常" }
+      ],
+      "maxSeats": 358
+    },
+    {
+      "name": "新宿ピカデリー",
+      "area": "新宿",
+      "eigaPath": "13/130201/3017",
+      "screens": [
+        { "name": "スクリーン1", "seats": 580, "type": "通常" },
+        { "name": "スクリーン2", "seats": 281, "type": "通常" },
+        { "name": "スクリーン3", "seats": 232, "type": "通常" },
+        { "name": "プラチナルーム", "seats": 2, "type": "プレミアム" },
+        { "name": "プラチナシート", "seats": 34, "type": "プレミアム" }
+      ],
+      "maxSeats": 580
+    },
+    {
+      "name": "TOHOシネマズ 池袋",
+      "area": "池袋",
+      "eigaPath": "13/130501/3307",
+      "screens": [
+        { "name": "スクリーン8", "seats": 355, "type": "轟音" },
+        { "name": "スクリーン7", "seats": 303, "type": "通常" },
+        { "name": "スクリーン5", "seats": 214, "type": "通常" },
+        { "name": "スクリーン6", "seats": 214, "type": "通常" },
+        { "name": "スクリーン4", "seats": 192, "type": "通常" },
+        { "name": "スクリーン3", "seats": 148, "type": "通常" },
+        { "name": "スクリーン9", "seats": 138, "type": "通常" },
+        { "name": "スクリーン1", "seats": 103, "type": "通常" },
+        { "name": "スクリーン2", "seats": 103, "type": "通常" },
+        { "name": "スクリーン10", "seats": 85, "type": "通常" }
+      ],
+      "maxSeats": 355
+    },
+    {
+      "name": "TOHOシネマズ 渋谷",
+      "area": "渋谷",
+      "eigaPath": "13/130301/3035",
+      "screens": [
+        { "name": "スクリーン6", "seats": 342, "type": "TCX" },
+        { "name": "スクリーン5", "seats": 234, "type": "通常" },
+        { "name": "スクリーン2", "seats": 160, "type": "通常" },
+        { "name": "スクリーン3", "seats": 152, "type": "通常" },
+        { "name": "スクリーン4", "seats": 137, "type": "通常" },
+        { "name": "スクリーン1", "seats": 113, "type": "通常" }
+      ],
+      "maxSeats": 342
+    },
+    {
+      "name": "109シネマズプレミアム新宿",
+      "area": "新宿",
+      "eigaPath": "13/130201/3318",
+      "screens": [
+        { "name": "シアター3", "seats": 142, "type": "Dolby Atmos" },
+        { "name": "シアター7", "seats": 124, "type": "通常" },
+        { "name": "シアター6", "seats": 98, "type": "ScreenX" },
+        { "name": "シアター2", "seats": 98, "type": "通常" },
+        { "name": "シアター4", "seats": 75, "type": "通常" },
+        { "name": "シアター8", "seats": 75, "type": "通常" },
+        { "name": "シアター1", "seats": 70, "type": "通常" },
+        { "name": "シアター5", "seats": 70, "type": "通常" }
+      ],
+      "maxSeats": 142
+    },
+    {
+      "name": "109シネマズ木場",
+      "area": "木場",
+      "eigaPath": "13/130701/3072",
+      "screens": [
+        { "name": "シアター1", "seats": 393, "type": "IMAX" },
+        { "name": "シアター9", "seats": 293, "type": "通常" },
+        { "name": "シアター3", "seats": 220, "type": "通常" },
+        { "name": "シアター4", "seats": 220, "type": "通常" },
+        { "name": "シアター2", "seats": 197, "type": "通常" },
+        { "name": "シアター5", "seats": 179, "type": "通常" },
+        { "name": "シアター6", "seats": 179, "type": "通常" },
+        { "name": "シアター8", "seats": 174, "type": "通常" },
+        { "name": "シアター7", "seats": 127, "type": "通常" }
+      ],
+      "maxSeats": 393
+    },
+    {
+      "name": "109シネマズ二子玉川",
+      "area": "二子玉川",
+      "eigaPath": "13/130615/3264",
+      "screens": [
+        { "name": "シアター10", "seats": 314, "type": "IMAX" },
+        { "name": "シアター3", "seats": 258, "type": "通常" },
+        { "name": "シアター2", "seats": 188, "type": "通常" },
+        { "name": "シアター7", "seats": 175, "type": "通常" },
+        { "name": "シアター9", "seats": 167, "type": "通常" },
+        { "name": "シアター1", "seats": 160, "type": "通常" },
+        { "name": "シアター8", "seats": 140, "type": "通常" },
+        { "name": "シアター5", "seats": 125, "type": "通常" },
+        { "name": "シアター6", "seats": 102, "type": "通常" },
+        { "name": "シアター4", "seats": 77, "type": "4DX" }
+      ],
+      "maxSeats": 314
+    },
+    {
+      "name": "ユナイテッド・シネマ アクアシティお台場",
+      "area": "お台場",
+      "eigaPath": "13/130702/3273",
+      "screens": [
+        { "name": "スクリーン9", "seats": 452, "type": "4DX SCREEN" },
+        { "name": "スクリーン1", "seats": 371, "type": "通常" },
+        { "name": "スクリーン10", "seats": 264, "type": "通常" },
+        { "name": "スクリーン2", "seats": 239, "type": "通常" },
+        { "name": "スクリーン3", "seats": 156, "type": "通常" },
+        { "name": "スクリーン8", "seats": 140, "type": "通常" },
+        { "name": "スクリーン4", "seats": 118, "type": "通常" },
+        { "name": "スクリーン5", "seats": 118, "type": "通常" },
+        { "name": "スクリーン6", "seats": 110, "type": "通常" },
+        { "name": "スクリーン7", "seats": 80, "type": "4DX" },
+        { "name": "スクリーン11", "seats": 78, "type": "通常" },
+        { "name": "スクリーン12", "seats": 78, "type": "通常" },
+        { "name": "スクリーン13", "seats": 78, "type": "通常" }
+      ],
+      "maxSeats": 452
+    },
+    {
+      "name": "TOHOシネマズ 錦糸町",
+      "area": "錦糸町",
+      "eigaPath": "13/130705/3075",
+      "screens": [
+        { "name": "スクリーン1 楽天地", "seats": 404, "type": "TCX" },
+        { "name": "オリナス スクリーン1", "seats": 305, "type": "通常" },
+        { "name": "オリナス スクリーン2", "seats": 201, "type": "通常" },
+        { "name": "スクリーン2 楽天地", "seats": 197, "type": "通常" },
+        { "name": "スクリーン3 楽天地", "seats": 184, "type": "通常" },
+        { "name": "スクリーン4 楽天地", "seats": 148, "type": "通常" }
+      ],
+      "maxSeats": 404
+    },
+    {
+      "name": "T・ジョイSEIBU大泉",
+      "area": "大泉",
+      "eigaPath": "13/130601/3074",
+      "screens": [
+        { "name": "シアター1", "seats": 431, "type": "通常" },
+        { "name": "シアター4", "seats": 237, "type": "通常" },
+        { "name": "シアター2", "seats": 202, "type": "通常" },
+        { "name": "シアター3", "seats": 167, "type": "通常" },
+        { "name": "シアター7", "seats": 161, "type": "通常" },
+        { "name": "シアター5", "seats": 118, "type": "通常" },
+        { "name": "シアター9", "seats": 110, "type": "通常" },
+        { "name": "シアター8", "seats": 91, "type": "通常" },
+        { "name": "シアター6", "seats": 75, "type": "通常" }
+      ],
+      "maxSeats": 431
+    },
+    {
+      "name": "TOHOシネマズ 上野",
+      "area": "上野",
+      "eigaPath": "13/130901/3276",
+      "screens": [
+        { "name": "スクリーン4", "seats": 263, "type": "通常" },
+        { "name": "スクリーン1", "seats": 202, "type": "通常" },
+        { "name": "スクリーン3", "seats": 172, "type": "通常" },
+        { "name": "スクリーン2", "seats": 128, "type": "通常" },
+        { "name": "スクリーン5", "seats": 93, "type": "通常" },
+        { "name": "スクリーン7", "seats": 93, "type": "通常" },
+        { "name": "スクリーン8", "seats": 93, "type": "通常" },
+        { "name": "スクリーン6", "seats": 69, "type": "通常" }
+      ],
+      "maxSeats": 263
+    },
+    {
+      "name": "TOHOシネマズ 日本橋",
+      "area": "日本橋",
+      "eigaPath": "13/130716/3258",
+      "screens": [
+        { "name": "スクリーン1", "seats": 406, "type": "TCX" },
+        { "name": "スクリーン2", "seats": 274, "type": "通常" },
+        { "name": "スクリーン6", "seats": 186, "type": "通常" },
+        { "name": "スクリーン7", "seats": 149, "type": "通常" },
+        { "name": "スクリーン3", "seats": 129, "type": "通常" },
+        { "name": "スクリーン4", "seats": 111, "type": "通常" },
+        { "name": "スクリーン5", "seats": 108, "type": "通常" },
+        { "name": "スクリーン8", "seats": 97, "type": "通常" },
+        { "name": "スクリーン9", "seats": 73, "type": "通常" }
+      ],
+      "maxSeats": 406
+    },
+    {
+      "name": "MOVIX昭島",
+      "area": "昭島",
+      "eigaPath": "13/130805/3103",
+      "screens": [
+        { "name": "シアター1", "seats": 355, "type": "通常" },
+        { "name": "シアター10", "seats": 305, "type": "通常" },
+        { "name": "シアター12", "seats": 258, "type": "通常" },
+        { "name": "シアター11", "seats": 220, "type": "通常" }
+      ],
+      "maxSeats": 355
+    },
+    {
+      "name": "イオンシネマ シアタス調布",
+      "area": "調布",
+      "eigaPath": "13/130811/3275",
+      "screens": [
+        { "name": "スクリーン1", "seats": 308, "type": "ULTIRA" },
+        { "name": "スクリーン10", "seats": 278, "type": "通常" },
+        { "name": "スクリーン5", "seats": 221, "type": "通常" }
+      ],
+      "maxSeats": 308
+    },
+    {
+      "name": "シネマサンシャイン平和島",
+      "area": "平和島",
+      "eigaPath": "13/130704/3077",
+      "screens": [
+        { "name": "シアター1", "seats": 347, "type": "IMAX レーザー" },
+        { "name": "シアター5", "seats": 267, "type": "通常" },
+        { "name": "シアター2", "seats": 227, "type": "通常" }
+      ],
+      "maxSeats": 347
+    },
+    {
+      "name": "MOVIX亀有",
+      "area": "亀有",
+      "eigaPath": "13/130707/3073",
+      "screens": [
+        { "name": "シアター12", "seats": 351, "type": "通常" },
+        { "name": "シアター11", "seats": 301, "type": "通常" }
+      ],
+      "maxSeats": 351
+    },
+    {
+      "name": "ユナイテッド・シネマ としまえん",
+      "area": "としまえん",
+      "eigaPath": "13/130602/3057",
+      "screens": [
+        { "name": "スクリーン3", "seats": 382, "type": "通常" },
+        { "name": "スクリーン2", "seats": 270, "type": "通常" },
+        { "name": "スクリーン1", "seats": 267, "type": "通常" }
+      ],
+      "maxSeats": 382
+    },
+    {
+      "name": "TOHOシネマズ 西新井",
+      "area": "西新井",
+      "eigaPath": "13/130706/3076",
+      "screens": [
+        { "name": "スクリーン1", "seats": 349, "type": "通常" },
+        { "name": "スクリーン2", "seats": 260, "type": "通常" }
+      ],
+      "maxSeats": 349
+    }
+  ]
+}

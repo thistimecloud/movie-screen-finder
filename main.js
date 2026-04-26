@@ -5,6 +5,7 @@
 const API_BASE = '/api';
 
 // State
+let staticDataCache = null;
 let currentMovieTitle = '';
 let currentScheduleData = [];
 let allDates = [];
@@ -56,42 +57,47 @@ document.addEventListener('click', (e) => {
 // Search Flow
 // ========================================
 
+async function loadStaticData() {
+  if (staticDataCache) return staticDataCache;
+  const res = await fetch(import.meta.env.BASE_URL + 'data.json');
+  staticDataCache = await res.json();
+  return staticDataCache;
+}
+
 async function handleSearch() {
-  const query = searchInput.value.trim();
+  const query = searchInput.value.trim().toLowerCase();
   if (!query) {
-    searchInput.focus();
-    return;
+    // If empty query, maybe show all currently playing movies?
+    // Let's just require a search or show all. For now, if empty, show all.
   }
 
   hideAllSections();
-  showLoading('映画を検索中...', `"${query}" を映画.comで検索しています`);
+  showLoading('データを読み込み中...', '最新の上映スケジュールを取得しています');
 
   try {
-    const results = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`);
-    const movies = await results.json();
-
+    const allData = await loadStaticData();
     hideLoading();
 
-    if (movies.error) {
-      showEmpty('検索エラー', movies.error);
-      return;
-    }
+    const matchedItems = allData.filter(d => 
+      !query || d.movie.title.toLowerCase().includes(query)
+    );
+
+    const movies = matchedItems.map(d => d.movie);
 
     if (movies.length === 0) {
-      showEmpty('映画が見つかりません', `"${query}" に一致する映画が見つかりませんでした。別のキーワードでお試しください。`);
+      showEmpty('映画が見つかりません', `"${query}" に一致する公開中の映画が見つかりませんでした。（※データは自動取得された人気上位作品のみ対象です）`);
       return;
     }
 
     if (movies.length === 1) {
-      // Auto-select if only one result
       selectMovie(movies[0]);
     } else {
       showMovieSelect(movies);
     }
   } catch (err) {
     hideLoading();
-    console.error('Search error:', err);
-    showEmpty('接続エラー', 'サーバーに接続できませんでした。サーバーが起動しているか確認してください。');
+    console.error('Data load error:', err);
+    showEmpty('エラー', 'データの読み込みに失敗しました。');
   }
 }
 
@@ -118,40 +124,23 @@ function showMovieSelect(movies) {
   movieSelectSection.classList.remove('hidden');
 }
 
-async function selectMovie(movie) {
+function selectMovie(movie) {
   currentMovieTitle = movie.title;
   hideAllSections();
-  showLoading(
-    '上映スケジュールを取得中...',
-    `${movie.title} の東京全映画館のスケジュールを取得しています（約10-30秒）`
-  );
+  
+  const allData = staticDataCache || [];
+  const movieData = allData.find(d => d.movie.id === movie.id);
 
-  try {
-    const res = await fetch(`${API_BASE}/schedule/${movie.id}`);
-    const data = await res.json();
-
-    hideLoading();
-
-    if (data.error) {
-      showEmpty('エラー', data.error);
-      return;
-    }
-
-    if (!data || data.length === 0) {
-      showEmpty(
-        '上映情報が見つかりません',
-        `"${movie.title}" は対象の東京映画館で現在上映されていないか、スケジュールが公開されていません。`
-      );
-      return;
-    }
-
-    currentScheduleData = data;
-    showResults();
-  } catch (err) {
-    hideLoading();
-    console.error('Schedule error:', err);
-    showEmpty('接続エラー', 'スケジュールの取得に失敗しました。');
+  if (!movieData || !movieData.schedules || movieData.schedules.length === 0) {
+    showEmpty(
+      '上映情報が見つかりません',
+      `"${movie.title}" のスケジュールデータがありません。`
+    );
+    return;
   }
+
+  currentScheduleData = movieData.schedules;
+  showResults();
 }
 
 // ========================================

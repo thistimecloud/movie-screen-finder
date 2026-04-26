@@ -4,13 +4,14 @@
   "description": "映画名で検索し、東京の映画館をスクリーンサイズ順に上映情報を表示",
   "type": "module",
   "scripts": {
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "client": "vite",
-    "server": "node server/index.js",
-    "build": "vite build"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate-data": "node scripts/generate_static_data.js"
   },
   "dependencies": {
-    "concurrently": "^8.2.2"
+    "cheerio": "^1.2.0",
+    "node-fetch": "^3.3.2"
   },
   "devDependencies": {
     "vite": "^5.4.0"
