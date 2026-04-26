@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CineScope Tokyo — 映画スクリーンサイズ検索</title>
+  <meta name="description" content="映画名を検索して、東京の映画館をスクリーンの大きい順に上映スケジュールを表示します。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="bg-grid"></div>
+  <div class="bg-glow bg-glow-1"></div>
+  <div class="bg-glow bg-glow-2"></div>
+
+  <header id="app-header">
+    <div class="header-inner">
+      <h1 class="logo">
+        <span class="logo-icon">🎬</span>
+        <span class="logo-text">Cine<span class="logo-accent">Scope</span></span>
+        <span class="logo-sub">Tokyo</span>
+      </h1>
+      <p class="tagline">映画をスクリーンの大きい順で探す</p>
+    </div>
+  </header>
+
+  <main id="app-main">
+    <!-- Search Section -->
+    <section id="search-section" class="search-section">
+      <div class="search-container">
+        <div class="search-box" id="search-box">
+          <div class="search-icon">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+          </div>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="映画名を入力（例：プロジェクト・ヘイル・メアリー）"
+            autocomplete="off"
+            aria-label="映画名を検索"
+          />
+          <button id="search-btn" class="search-btn" aria-label="検索">
+            検索
+          </button>
+        </div>
+        <div id="search-suggestions" class="search-suggestions hidden"></div>
+      </div>
+    </section>
+
+    <!-- Loading State -->
+    <section id="loading-section" class="loading-section hidden">
+      <div class="loading-spinner">
+        <div class="spinner-ring"></div>
+        <div class="spinner-ring"></div>
+        <div class="spinner-ring"></div>
+      </div>
+      <p class="loading-text" id="loading-text">映画を検索中...</p>
+      <p class="loading-sub" id="loading-sub">eiga.comからデータを取得しています</p>
+    </section>
+
+    <!-- Movie Selection -->
+    <section id="movie-select-section" class="movie-select-section hidden">
+      <h2 class="section-title">検索結果</h2>
+      <p class="section-desc">上映スケジュールを確認したい映画を選択してください</p>
+      <div id="movie-list" class="movie-list"></div>
+    </section>
+
+    <!-- Results Section -->
+    <section id="results-section" class="results-section hidden">
+      <div class="results-header">
+        <div class="results-title-row">
+          <h2 class="results-movie-title" id="results-movie-title"></h2>
+          <button id="back-btn" class="back-btn" aria-label="検索に戻る">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="19" y1="12" x2="5" y2="12"/>
+              <polyline points="12 19 5 12 12 5"/>
+            </svg>
+            検索に戻る
+          </button>
+        </div>
+        <div class="filter-bar">
+          <div class="date-tabs" id="date-tabs"></div>
+          <label class="future-toggle" id="future-toggle-label">
+            <input type="checkbox" id="future-toggle" checked />
+            <span class="toggle-slider"></span>
+            <span class="toggle-text">現在時刻以降のみ</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="results-stats" id="results-stats"></div>
+      <div class="theater-cards" id="theater-cards"></div>
+    </section>
+
+    <!-- Empty State -->
+    <section id="empty-section" class="empty-section hidden">
+      <div class="empty-icon">🎞️</div>
+      <h2 class="empty-title" id="empty-title">上映情報が見つかりません</h2>
+      <p class="empty-desc" id="empty-desc">この映画は対象映画館で現在上映されていない可能性があります。</p>
+      <button id="empty-back-btn" class="back-btn">検索に戻る</button>
+    </section>
+  </main>
+
+  <footer id="app-footer">
+    <p>CineScope Tokyo — 東京の映画館スクリーンサイズ検索</p>
+    <p class="footer-note">上映データ: eiga.com | スクリーンデータ: 各映画館公式サイト</p>
+  </footer>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
