@@ -40,67 +40,6 @@
         },
         "schedule": [
           {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "12:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:10",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "14:10",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "15:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "19:20",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "21:50",
-                "end": "23:55",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -273,62 +212,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "8:25",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "10:30",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:05",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:10",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "15:30",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "15:40",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "20:35",
-                "end": "22:34",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -544,22 +427,6 @@
             ]
           },
           {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "20:20",
-                "end": "22:19",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -610,22 +477,6 @@
                 "start": "10:50",
                 "end": "12:49",
                 "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "18:40",
-                "end": "20:44",
-                "past": true
               }
             ]
           },
@@ -739,62 +590,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "9:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "12:20",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "20:50",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "21:35",
-                "end": "23:40",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -961,22 +756,6 @@
                 "start": "21:30",
                 "end": "23:35",
                 "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:25",
-                "end": "13:35",
-                "past": true
               }
             ]
           },
@@ -4918,6 +4697,67 @@
         },
         "schedule": [
           {
+            "date": "2026-04-26",
+            "displayDate": "4/26（日）",
+            "times": [
+              {
+                "start": "8:25",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "11:00",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "11:40",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "12:30",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "13:45",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "14:35",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "17:35",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "18:00",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "19:30",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "20:40",
+                "end": null,
+                "past": true
+              },
+              {
+                "start": "22:05",
+                "end": "24:15",
+                "past": true
+              }
+            ]
+          },
+          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -7203,72 +7043,6 @@
         },
         "schedule": [
           {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "12:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "13:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "16:40",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "18:45",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "19:05",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "19:30",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "21:20",
-                "end": "23:30",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -7767,17 +7541,6 @@
         },
         "schedule": [
           {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "22:10",
-                "end": "24:00",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -7870,17 +7633,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": "10:18",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -7981,17 +7733,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "18:00",
-                "end": "20:04",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -9767,17 +9508,6 @@
         },
         "schedule": [
           {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": "10:05",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
             "times": [
@@ -9950,22 +9680,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "12:50",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "19:00",
-                "end": "21:45",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -13866,17 +13580,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": "13:40",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
@@ -23908,17 +23611,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-04-26",
-            "displayDate": "4/26（日）",
-            "times": [
-              {
-                "start": "14:05",
-                "end": "16:35",
-                "past": true
-              }
-            ]
-          },
           {
             "date": "2026-04-27",
             "displayDate": "4/27（月）",
