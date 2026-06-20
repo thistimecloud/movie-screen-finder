@@ -30,17 +30,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:40",
-                "end": "22:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -91,27 +80,6 @@
               {
                 "start": "19:40",
                 "end": "22:00",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:05",
-                "end": "19:25",
                 "past": false
               }
             ]
@@ -267,47 +235,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -595,17 +522,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:55",
-                "end": "15:12",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -656,22 +572,6 @@
               {
                 "start": "12:55",
                 "end": "15:12",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
-                "end": "22:57",
                 "past": false
               }
             ]
@@ -752,37 +652,6 @@
               {
                 "start": "20:35",
                 "end": "22:57",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:05",
-                "end": "23:22",
                 "past": false
               }
             ]
@@ -999,32 +868,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:15",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -1115,22 +958,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -1206,32 +1033,6 @@
               {
                 "start": "21:30",
                 "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:25",
                 "past": false
               }
             ]
@@ -1448,27 +1249,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -1599,27 +1379,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -1720,27 +1479,6 @@
               {
                 "start": "20:35",
                 "end": "22:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": "21:25",
                 "past": false
               }
             ]
@@ -1846,37 +1584,6 @@
               {
                 "start": "19:00",
                 "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:25",
                 "past": false
               }
             ]
@@ -2108,37 +1815,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:15",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -2314,17 +1990,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:30",
-                "end": "14:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -2375,17 +2040,6 @@
               {
                 "start": "11:00",
                 "end": "13:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:40",
-                "end": "20:00",
                 "past": false
               }
             ]
@@ -2522,22 +2176,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:30",
-                "end": "19:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -2613,27 +2251,6 @@
               {
                 "start": "12:05",
                 "end": "14:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:55",
                 "past": false
               }
             ]
@@ -2739,37 +2356,6 @@
               {
                 "start": "21:30",
                 "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:15",
                 "past": false
               }
             ]
@@ -2985,57 +2571,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -3323,57 +2858,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "25:50",
-                "end": "28:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -3553,7 +3037,7 @@
               {
                 "start": "17:00",
                 "end": null,
-                "past": false
+                "past": true
               },
               {
                 "start": "20:25",
@@ -3614,47 +3098,6 @@
               {
                 "start": "26:05",
                 "end": "28:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "25:05",
-                "end": "27:25",
                 "past": false
               }
             ]
@@ -3921,42 +3364,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -4147,22 +3554,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:05",
-                "end": "22:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -4299,22 +3690,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:10",
-                "end": "16:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -4358,37 +3733,6 @@
               {
                 "start": "17:05",
                 "end": "19:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:40",
                 "past": false
               }
             ]
@@ -4527,47 +3871,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": "22:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -4845,47 +4148,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "9:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -5081,27 +4343,6 @@
               {
                 "start": "21:35",
                 "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:45",
                 "past": false
               }
             ]
@@ -5238,42 +4479,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:10",
-                "end": "24:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -5479,27 +4684,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": "20:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -5600,17 +4784,6 @@
               {
                 "start": "18:20",
                 "end": "20:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:50",
-                "end": "14:10",
                 "past": false
               }
             ]
@@ -5736,47 +4909,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -5963,27 +5095,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -6149,42 +5260,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:40",
-                "end": "24:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -6356,27 +5431,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": "22:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -6512,37 +5566,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -6739,52 +5762,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -7012,37 +5989,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -7193,27 +6139,6 @@
               {
                 "start": "21:30",
                 "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:05",
-                "end": "19:30",
                 "past": false
               }
             ]
@@ -7350,17 +6275,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:10",
-                "end": "14:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -7411,22 +6325,6 @@
               {
                 "start": "12:10",
                 "end": "14:25",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": "18:55",
                 "past": false
               }
             ]
@@ -7507,27 +6405,6 @@
               {
                 "start": "16:40",
                 "end": "18:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:15",
-                "end": "22:30",
                 "past": false
               }
             ]
@@ -7678,52 +6555,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -7986,57 +6817,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -8272,27 +7052,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -8423,42 +7182,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -8640,27 +7363,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -8760,22 +7462,6 @@
               },
               {
                 "start": "21:40",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
                 "end": null,
                 "past": false
               }
@@ -8912,37 +7598,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -9170,47 +7825,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "24:10",
-                "end": "26:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -9366,27 +7980,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -9487,27 +8080,6 @@
               {
                 "start": "21:20",
                 "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "23:05",
                 "past": false
               }
             ]
@@ -9712,22 +8284,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:55",
-                "end": "21:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -9907,17 +8463,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": "12:42",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -9968,27 +8513,6 @@
               {
                 "start": "11:15",
                 "end": "13:37",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:32",
                 "past": false
               }
             ]
@@ -10199,22 +8723,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -10305,22 +8813,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:30",
-                "end": "19:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -10396,22 +8888,6 @@
               {
                 "start": "16:45",
                 "end": "19:10",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": "16:05",
                 "past": false
               }
             ]
@@ -10568,27 +9044,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -10689,17 +9144,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:20",
-                "end": "20:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -10750,17 +9194,6 @@
               {
                 "start": "12:35",
                 "end": "15:05",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": "11:05",
                 "past": false
               }
             ]
@@ -10897,17 +9330,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:35",
-                "end": "20:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -10978,17 +9400,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:55",
-                "end": "14:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -11044,17 +9455,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:20",
-                "end": "22:40",
-                "past": true
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -11094,17 +9494,6 @@
               {
                 "start": "16:10",
                 "end": "18:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:55",
-                "end": "17:15",
                 "past": false
               }
             ]
@@ -11240,27 +9629,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "24:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -11418,22 +9786,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -11524,22 +9876,6 @@
               {
                 "start": "21:10",
                 "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": "19:00",
                 "past": false
               }
             ]
@@ -11680,37 +10016,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:55",
-                "end": "25:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -11933,22 +10238,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12029,17 +10318,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:30",
-                "end": "19:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12090,17 +10368,6 @@
               {
                 "start": "17:30",
                 "end": "19:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:15",
-                "end": "19:40",
                 "past": false
               }
             ]
@@ -12217,27 +10484,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": "19:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12342,17 +10588,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:05",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12428,22 +10663,6 @@
               {
                 "start": "21:00",
                 "end": "23:25",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": "17:10",
                 "past": false
               }
             ]
@@ -12580,22 +10799,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12671,17 +10874,6 @@
               {
                 "start": "21:20",
                 "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:40",
-                "end": "15:05",
                 "past": false
               }
             ]
@@ -12768,22 +10960,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12859,17 +11035,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:00",
-                "end": "14:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -12925,29 +11090,13 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:35",
-                "end": null,
-                "past": true
-              },
-              {
-                "start": "21:20",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
               {
                 "start": "14:35",
                 "end": null,
-                "past": false
+                "past": true
               },
               {
                 "start": "21:20",
@@ -13107,22 +11256,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": "18:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -13198,17 +11331,6 @@
               {
                 "start": "15:40",
                 "end": "18:00",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:25",
-                "end": "15:45",
                 "past": false
               }
             ]
@@ -13330,17 +11452,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:40",
-                "end": "16:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -13406,17 +11517,6 @@
               {
                 "start": "21:15",
                 "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:30",
-                "end": "19:55",
                 "past": false
               }
             ]
@@ -13508,17 +11608,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:50",
-                "end": "14:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -13569,17 +11658,6 @@
               {
                 "start": "11:50",
                 "end": "14:15",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:40",
-                "end": "17:05",
                 "past": false
               }
             ]
@@ -13676,22 +11754,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -13767,17 +11829,6 @@
               {
                 "start": "21:10",
                 "end": "23:35",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:45",
-                "end": "18:10",
                 "past": false
               }
             ]
@@ -13874,17 +11925,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": "11:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -13935,17 +11975,6 @@
               {
                 "start": "16:10",
                 "end": "18:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:25",
-                "end": "14:55",
                 "past": false
               }
             ]
@@ -14032,17 +12061,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:00",
-                "end": "14:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -14093,22 +12111,6 @@
               {
                 "start": "12:00",
                 "end": "14:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": "23:00",
                 "past": false
               }
             ]
@@ -14234,27 +12236,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -14422,27 +12403,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:05",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -14523,17 +12483,6 @@
               {
                 "start": "21:10",
                 "end": "23:35",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": "13:40",
                 "past": false
               }
             ]
@@ -14620,22 +12569,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -14716,17 +12649,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -14776,17 +12698,6 @@
             "times": [
               {
                 "start": "18:30",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:20",
                 "end": null,
                 "past": false
               }
@@ -14918,22 +12829,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:45",
-                "end": "21:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -15081,27 +12976,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -15205,17 +13079,6 @@
                 "past": false
               }
             ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "24:20",
-                "end": "26:45",
-                "past": false
-              }
-            ]
           }
         ]
       }
@@ -15261,22 +13124,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -15429,22 +13276,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "20:51",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -15580,22 +13411,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:55",
-                "end": "16:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -15747,22 +13562,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -15920,22 +13719,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:55",
-                "end": "22:14",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -16092,22 +13875,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": "19:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -16243,22 +14010,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:05",
-                "end": "16:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -16396,17 +14147,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": "10:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -16532,22 +14272,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:49",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -16685,22 +14409,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": "18:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -16789,27 +14497,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -16972,22 +14659,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -17093,22 +14764,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": "21:34",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -17256,22 +14911,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -17413,22 +15052,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:05",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -17540,22 +15163,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -17657,22 +15264,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:30",
-                "end": "19:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -17773,22 +15364,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": "17:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -17895,22 +15470,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -18032,22 +15591,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -18190,22 +15733,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "20:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -18311,22 +15838,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -18459,22 +15970,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": "18:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -18605,22 +16100,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -18872,17 +16351,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:45",
-                "end": "18:16",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -18993,17 +16461,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": "11:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -19130,17 +16587,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:40",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -19273,17 +16719,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:00",
-                "end": "19:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -19415,17 +16850,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:40",
-                "end": "17:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -19537,17 +16961,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:00",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -19658,17 +17071,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": "10:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -19796,17 +17198,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": "10:44",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -19918,17 +17309,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:30",
-                "end": "23:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20018,17 +17398,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:30",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20109,17 +17478,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:15",
-                "end": "18:49",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -20242,17 +17600,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:15",
-                "end": "22:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20369,17 +17716,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:20",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20421,17 +17757,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": "11:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -20574,17 +17899,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:20",
-                "end": "22:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20665,17 +17979,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:00",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -20772,17 +18075,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": "13:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -20900,17 +18192,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:45",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -20991,17 +18272,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:00",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -21109,17 +18379,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:25",
-                "end": "16:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -21225,17 +18484,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": "11:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -21348,22 +18596,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -21469,27 +18701,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:25",
-                "end": "21:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -21697,17 +18908,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:00",
-                "end": "14:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -21839,17 +19039,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:10",
-                "end": "16:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -21936,17 +19125,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:10",
-                "end": "20:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -22022,17 +19200,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:15",
-                "end": "20:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -22168,17 +19335,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:45",
-                "end": "14:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -22265,17 +19421,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:30",
-                "end": "16:32",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -22408,17 +19553,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "20:25",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -22511,22 +19645,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": "18:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -22626,17 +19744,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:50",
-                "end": "21:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -22774,17 +19881,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:05",
-                "end": "23:14",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -22895,27 +19991,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -23088,17 +20163,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:50",
-                "end": "21:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -23169,17 +20233,6 @@
               {
                 "start": "21:40",
                 "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": "10:45",
                 "past": false
               }
             ]
@@ -23315,22 +20368,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": "21:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -23488,22 +20525,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -23645,22 +20666,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": "18:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -23796,27 +20801,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -23983,27 +20967,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": "22:52",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -24166,22 +21129,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:10",
-                "end": "15:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -24266,17 +21213,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:20",
-                "end": "21:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -24327,17 +21263,6 @@
               {
                 "start": "11:10",
                 "end": "13:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": "10:40",
                 "past": false
               }
             ]
@@ -24453,22 +21378,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:25",
-                "end": "16:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -24590,22 +21499,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:45",
-                "end": "21:57",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -24753,22 +21646,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": "20:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -24895,17 +21772,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:30",
-                "end": "20:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -24991,22 +21857,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": "16:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -25104,17 +21954,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:30",
-                "end": "14:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -25165,17 +22004,6 @@
               {
                 "start": "13:00",
                 "end": "15:15",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:20",
-                "end": "18:35",
                 "past": false
               }
             ]
@@ -25257,17 +22085,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": "11:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -25348,17 +22165,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:50",
-                "end": "17:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -25455,37 +22261,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -25703,27 +22478,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -25859,22 +22613,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -26027,22 +22765,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:20",
-                "end": "21:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -26173,22 +22895,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -26349,17 +23055,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:40",
-                "end": "12:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -26470,17 +23165,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": "10:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -26607,17 +23291,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:35",
-                "end": "13:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -26750,17 +23423,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:25",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -26871,17 +23533,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": "13:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -27009,17 +23660,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": "11:18",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -27131,17 +23771,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:15",
-                "end": "21:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -27233,17 +23862,6 @@
               {
                 "start": "9:45",
                 "end": "11:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:05",
-                "end": "11:00",
                 "past": false
               }
             ]
@@ -27343,17 +23961,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:40",
-                "end": "14:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -27429,17 +24036,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:30",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -27539,17 +24135,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "22:05",
-                "end": "24:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -27623,22 +24208,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:40",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -27781,17 +24350,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "18:25",
-                "end": "20:20",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -27872,17 +24430,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:05",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -27989,17 +24536,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": "10:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -28140,22 +24676,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": "15:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -28274,32 +24794,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -28502,32 +24996,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": "22:39",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -28713,32 +25181,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -28940,32 +25382,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -29173,32 +25589,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:50",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -29385,32 +25775,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:45",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -29596,37 +25960,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "25:20",
-                "end": "27:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -29849,32 +26182,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "22:52",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -30061,32 +26368,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "22:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -30205,32 +26486,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": "22:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -30387,32 +26642,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:20",
-                "end": "24:22",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -30609,32 +26838,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -30827,32 +27030,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "22:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -31014,32 +27191,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -31191,32 +27342,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -31367,37 +27492,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -31594,42 +27688,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:45",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -31852,32 +27910,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -32033,32 +28065,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -32240,32 +28246,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:55",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -32441,17 +28421,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": "10:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -32578,17 +28547,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": "12:34",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -32700,34 +28658,12 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": "10:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
               {
                 "start": "21:40",
                 "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:25",
-                "end": "16:15",
                 "past": false
               }
             ]
@@ -32864,17 +28800,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:30",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -32925,17 +28850,6 @@
               {
                 "start": "19:10",
                 "end": "21:05",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": "13:05",
                 "past": false
               }
             ]
@@ -33072,22 +28986,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": "17:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -33183,17 +29081,6 @@
               {
                 "start": "17:05",
                 "end": "18:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:15",
-                "end": "12:05",
                 "past": false
               }
             ]
@@ -33296,17 +29183,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:50",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -33418,22 +29294,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": "17:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -33571,17 +29431,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "23:30",
-                "end": "25:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -33708,22 +29557,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:30",
-                "end": "18:22",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -33809,17 +29642,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:55",
-                "end": "16:47",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -33886,17 +29708,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:10",
-                "end": "12:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -33971,27 +29782,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:45",
-                "end": "17:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -34154,22 +29944,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:10",
-                "end": "14:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -34256,22 +30030,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": "17:02",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -34347,17 +30105,6 @@
               {
                 "start": "15:10",
                 "end": "17:02",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": "11:02",
                 "past": false
               }
             ]
@@ -34439,17 +30186,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": "10:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -34567,17 +30303,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:10",
-                "end": "16:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -34684,17 +30409,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:10",
-                "end": "15:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -34770,22 +30484,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:25",
-                "end": "15:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -34868,17 +30566,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": "10:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -34960,17 +30647,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:00",
-                "end": "16:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35021,17 +30697,6 @@
               {
                 "start": "15:00",
                 "end": "16:50",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": "11:05",
                 "past": false
               }
             ]
@@ -35153,17 +30818,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:50",
-                "end": "19:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35245,27 +30899,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35325,17 +30958,6 @@
             "times": [
               {
                 "start": "12:25",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:20",
                 "end": null,
                 "past": false
               }
@@ -35403,17 +31025,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:55",
-                "end": "15:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -35521,17 +31132,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": "10:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35630,17 +31230,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": "12:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -35768,17 +31357,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:20",
-                "end": "15:23",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35890,17 +31468,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:55",
-                "end": "13:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -35951,17 +31518,6 @@
               {
                 "start": "12:05",
                 "end": "14:05",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "21:40",
-                "end": "23:40",
                 "past": false
               }
             ]
@@ -36093,17 +31649,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": "12:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -36154,17 +31699,6 @@
               {
                 "start": "10:35",
                 "end": "12:40",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:00",
-                "end": "21:05",
                 "past": false
               }
             ]
@@ -36301,17 +31835,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": "14:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -36382,17 +31905,6 @@
               {
                 "start": "17:50",
                 "end": "19:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "15:15",
-                "end": "17:15",
                 "past": false
               }
             ]
@@ -36529,17 +32041,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:05",
-                "end": "18:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -36650,17 +32151,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": "13:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -36777,17 +32267,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:10",
-                "end": "18:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -36915,22 +32394,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": "15:51",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -37006,17 +32469,6 @@
               {
                 "start": "12:30",
                 "end": "14:36",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": "14:26",
                 "past": false
               }
             ]
@@ -37133,22 +32585,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": "16:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -37222,27 +32658,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "20:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -37405,22 +32820,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": "18:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -37507,17 +32906,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:35",
-                "end": "12:41",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -37568,17 +32956,6 @@
               {
                 "start": "10:35",
                 "end": "12:41",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "17:25",
-                "end": "19:31",
                 "past": false
               }
             ]
@@ -37704,17 +33081,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:25",
-                "end": "16:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -37865,17 +33231,6 @@
             ]
           },
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "12:10",
-                "end": "14:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -37962,17 +33317,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:00",
-                "end": "16:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -38049,17 +33393,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:35",
-                "end": "13:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -38135,17 +33468,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "11:45",
-                "end": "13:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -38227,22 +33549,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:40",
-                "end": "19:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -38365,22 +33671,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:10",
-                "end": "21:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -38502,22 +33792,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "14:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -38604,22 +33878,6 @@
         },
         "schedule": [
           {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
             "times": [
@@ -38669,17 +33927,6 @@
             "times": [
               {
                 "start": "13:55",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "8:45",
                 "end": null,
                 "past": false
               }
@@ -38791,17 +34038,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "16:15",
-                "end": "18:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-06-21",
             "displayDate": "6/21（日）",
@@ -38959,17 +34195,6 @@
               {
                 "start": "9:50",
                 "end": "11:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-06-20",
-            "displayDate": "6/20（土）",
-            "times": [
-              {
-                "start": "19:00",
-                "end": "21:05",
                 "past": false
               }
             ]
