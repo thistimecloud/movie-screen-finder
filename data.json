@@ -30,22 +30,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:40",
-                "end": "17:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -177,27 +161,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": "21:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -421,22 +384,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:27",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -587,22 +534,6 @@
               {
                 "start": "20:35",
                 "end": "22:57",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:30",
-                "end": "16:47",
                 "past": false
               }
             ]
@@ -764,37 +695,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -1042,32 +942,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:05",
-                "end": "24:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -1345,27 +1219,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:40",
-                "end": "22:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -1567,42 +1420,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -1922,27 +1739,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -2154,62 +1950,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "24:55",
-                "end": "27:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -2502,22 +2242,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "24:05",
-                "end": "26:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -2705,27 +2429,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": "21:22",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -2898,27 +2601,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -3040,22 +2722,6 @@
               {
                 "start": "20:30",
                 "end": "22:55",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "21:00",
                 "past": false
               }
             ]
@@ -3197,37 +2863,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -3471,22 +3106,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -3632,22 +3251,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:45",
-                "end": "24:07",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -3884,32 +3487,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "20:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -4172,27 +3749,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:50",
-                "end": "26:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -4365,32 +3921,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -4548,27 +4078,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:50",
-                "end": "20:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -4715,27 +4224,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "7:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -4889,17 +4377,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:40",
-                "end": "17:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -5006,27 +4483,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "7:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": "20:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -5214,32 +4670,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -5446,32 +4876,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -5704,32 +5108,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -5937,22 +5315,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -6049,17 +5411,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:15",
-                "end": "17:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -6121,27 +5472,6 @@
               {
                 "start": "15:15",
                 "end": "17:35",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "24:20",
-                "end": "26:40",
                 "past": false
               }
             ]
@@ -6286,42 +5616,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -6610,22 +5904,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": "17:38",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -6732,32 +6010,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "23:13",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -6894,22 +6146,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:58",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -6981,22 +6217,6 @@
               {
                 "start": "11:15",
                 "end": "13:43",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": "22:53",
                 "past": false
               }
             ]
@@ -7143,37 +6363,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -7361,32 +6550,6 @@
               {
                 "start": "20:10",
                 "end": "22:45",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:05",
-                "end": "23:40",
                 "past": false
               }
             ]
@@ -7608,62 +6771,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:25",
-                "end": "26:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -7956,32 +7063,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:35",
-                "end": "25:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -8128,22 +7209,6 @@
               {
                 "start": "20:40",
                 "end": "23:10",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:50",
-                "end": "24:25",
                 "past": false
               }
             ]
@@ -8320,42 +7385,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:35",
-                "end": "22:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -8543,27 +7572,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:15",
-                "end": "19:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -8685,32 +7693,6 @@
               {
                 "start": "17:20",
                 "end": "19:45",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:05",
-                "end": "22:30",
                 "past": false
               }
             ]
@@ -8948,37 +7930,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "24:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -9189,22 +8140,6 @@
               },
               {
                 "start": "21:30",
-                "end": "24:00",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
                 "end": "24:00",
                 "past": false
               }
@@ -9487,42 +8422,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -9795,42 +8694,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "25:00",
-                "end": "27:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -10032,27 +8895,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -10249,42 +9091,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:29",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -10507,27 +9313,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:59",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -10647,7 +9432,12 @@
               },
               {
                 "start": "13:50",
-                "end": "16:19",
+                "end": null,
+                "past": false
+              },
+              {
+                "start": "19:30",
+                "end": "21:59",
                 "past": false
               }
             ]
@@ -10734,37 +9524,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:40",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -10947,27 +9706,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "24:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -11134,62 +9872,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "9:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -11583,37 +10265,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -11795,22 +10446,6 @@
               {
                 "start": "21:25",
                 "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:55",
                 "past": false
               }
             ]
@@ -11917,37 +10552,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:55",
-                "end": "24:24",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -12175,22 +10779,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": "18:29",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -12282,27 +10870,6 @@
               {
                 "start": "16:00",
                 "end": "18:29",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:40",
-                "end": "24:09",
                 "past": false
               }
             ]
@@ -12499,47 +11066,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -12762,22 +11288,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": "20:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -12935,32 +11445,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:40",
-                "end": "24:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -13087,32 +11571,6 @@
               {
                 "start": "21:35",
                 "end": "24:10",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "22:10",
-                "end": "24:45",
                 "past": false
               }
             ]
@@ -13329,47 +11787,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": "22:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -13617,42 +12034,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -13921,62 +12302,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "9:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "24:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -14288,32 +12613,6 @@
               {
                 "start": "20:25",
                 "end": "23:00",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "22:35",
                 "past": false
               }
             ]
@@ -14501,32 +12800,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:15",
-                "end": "20:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -14683,27 +12956,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:10",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -14825,17 +13077,6 @@
               {
                 "start": "20:10",
                 "end": "22:35",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:35",
-                "end": "23:00",
                 "past": false
               }
             ]
@@ -14947,37 +13188,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -15256,42 +13466,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -15508,22 +13682,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -15646,37 +13804,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:20",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -15863,22 +13990,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -15969,27 +14080,6 @@
               },
               {
                 "start": "18:45",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
                 "end": null,
                 "past": false
               }
@@ -16172,47 +14262,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "23:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -16506,22 +14555,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:40",
-                "end": "26:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -16608,32 +14641,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -16785,27 +14792,6 @@
               {
                 "start": "20:50",
                 "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:50",
                 "past": false
               }
             ]
@@ -16961,17 +14947,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:55",
-                "end": "21:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -17073,42 +15048,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:55",
-                "end": "23:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -17427,17 +15366,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:15",
-                "end": "22:07",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -17488,17 +15416,6 @@
               {
                 "start": "20:15",
                 "end": "22:07",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:15",
-                "end": "15:07",
                 "past": false
               }
             ]
@@ -17630,32 +15547,6 @@
               {
                 "start": "15:35",
                 "end": "17:27",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": "20:27",
                 "past": false
               }
             ]
@@ -17843,32 +15734,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": "23:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -18014,47 +15879,6 @@
               },
               {
                 "start": "18:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
                 "end": null,
                 "past": false
               },
@@ -18373,32 +16197,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -18560,62 +16358,6 @@
               {
                 "start": "21:50",
                 "end": "23:50",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:00",
-                "end": "25:00",
                 "past": false
               }
             ]
@@ -18972,22 +16714,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:10",
-                "end": "13:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -19140,42 +16866,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -19392,17 +17082,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:05",
-                "end": "14:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -19464,17 +17143,6 @@
               {
                 "start": "12:10",
                 "end": "14:05",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:50",
-                "end": "19:45",
                 "past": false
               }
             ]
@@ -19621,32 +17289,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": "23:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -19814,62 +17456,6 @@
               {
                 "start": "21:30",
                 "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:40",
-                "end": "23:40",
                 "past": false
               }
             ]
@@ -20304,42 +17890,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": "22:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -20632,17 +18182,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "22:55",
-                "end": "24:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -20724,57 +18263,6 @@
               {
                 "start": "23:25",
                 "end": "25:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "26:05",
-                "end": "28:00",
                 "past": false
               }
             ]
@@ -21197,17 +18685,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:40",
-                "end": "17:37",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -21269,57 +18746,6 @@
               {
                 "start": "17:40",
                 "end": "19:37",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:27",
                 "past": false
               }
             ]
@@ -21691,17 +19117,6 @@
             ]
           },
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:00",
-                "end": "19:57",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -21824,17 +19239,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:30",
-                "end": "19:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -21896,52 +19300,6 @@
               {
                 "start": "21:30",
                 "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "23:00",
                 "past": false
               }
             ]
@@ -22344,17 +19702,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "21:20",
-                "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -22416,67 +19763,6 @@
               {
                 "start": "21:20",
                 "end": "23:15",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:50",
-                "end": "22:45",
                 "past": false
               }
             ]
@@ -22929,37 +20215,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": "22:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -23172,37 +20427,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "22:52",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -23414,22 +20638,6 @@
               {
                 "start": "21:55",
                 "end": "23:52",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": "15:27",
                 "past": false
               }
             ]
@@ -23566,57 +20774,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:45",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -23995,52 +21152,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "24:45",
-                "end": "26:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -24167,8 +21278,8 @@
                 "past": false
               },
               {
-                "start": "21:20",
-                "end": "23:20",
+                "start": "21:25",
+                "end": "23:25",
                 "past": false
               }
             ]
@@ -24213,8 +21324,8 @@
                 "past": false
               },
               {
-                "start": "21:20",
-                "end": "23:20",
+                "start": "21:25",
+                "end": "23:25",
                 "past": false
               }
             ]
@@ -24305,8 +21416,8 @@
                 "past": false
               },
               {
-                "start": "21:20",
-                "end": "23:20",
+                "start": "21:25",
+                "end": "23:25",
                 "past": false
               }
             ]
@@ -24342,52 +21453,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:00",
-                "end": "21:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -24686,17 +21751,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:00",
-                "end": "20:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -24758,47 +21812,6 @@
               {
                 "start": "19:25",
                 "end": "21:20",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:40",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "22:50",
                 "past": false
               }
             ]
@@ -25060,72 +22073,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "7:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "8:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:55",
-                "end": "22:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -25529,27 +22476,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": "20:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -25671,17 +22597,6 @@
               {
                 "start": "18:20",
                 "end": "20:10",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": "11:20",
                 "past": false
               }
             ]
@@ -25794,17 +22709,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:55",
-                "end": "17:55",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -25866,32 +22770,6 @@
               {
                 "start": "21:45",
                 "end": "23:45",
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:50",
-                "end": "20:50",
                 "past": false
               }
             ]
@@ -26193,52 +23071,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:35",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -26602,57 +23434,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:05",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:00",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -26953,17 +23734,6 @@
               },
               {
                 "start": "21:00",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:30",
                 "end": null,
                 "past": false
               }
@@ -27086,42 +23856,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:55",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -27415,37 +24149,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "11:55",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:30",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -27666,17 +24369,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:25",
-                "end": "15:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -27767,17 +24459,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:40",
-                "end": "16:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -27915,17 +24596,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:55",
-                "end": "15:33",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -28069,17 +24739,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:50",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -28201,17 +24860,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:50",
-                "end": "15:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -28350,17 +24998,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:15",
-                "end": "22:57",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -28482,17 +25119,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "14:05",
-                "end": "16:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -28701,17 +25327,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:00",
-                "end": "18:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -28803,17 +25418,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:15",
-                "end": "14:57",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -29127,17 +25731,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:00",
-                "end": "19:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -29224,17 +25817,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": "11:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -29393,17 +25975,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:00",
-                "end": "22:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -29531,17 +26102,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:10",
-                "end": "13:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -29633,17 +26193,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:40",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -29745,17 +26294,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:05",
-                "end": "19:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-26",
             "displayDate": "7/26（日）",
             "times": [
@@ -29835,22 +26373,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -30019,17 +26541,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:15",
-                "end": "16:54",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -30172,17 +26683,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:40",
-                "end": "18:19",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -30304,17 +26804,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:50",
-                "end": "19:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -30453,17 +26942,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:10",
-                "end": "19:54",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -30586,17 +27064,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "21:55",
-                "end": "23:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -30703,22 +27170,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "15:55",
-                "end": "17:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -30867,17 +27318,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:45",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -30969,17 +27409,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:00",
-                "end": "19:44",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -31113,17 +27542,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "21:50",
-                "end": "23:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -31251,17 +27669,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:20",
-                "end": "12:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -31359,17 +27766,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "10:45",
-                "end": "12:25",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -31457,17 +27853,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": "13:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -31554,17 +27939,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:30",
-                "end": "18:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -31657,17 +28031,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:30",
-                "end": "17:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -31775,17 +28138,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "7:00",
-                "end": "8:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -31914,17 +28266,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:25",
-                "end": "18:05",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -32016,17 +28357,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:45",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -32144,17 +28474,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "21:40",
-                "end": "23:20",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -32285,22 +28604,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:25",
-                "end": "23:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -32493,32 +28796,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "23:35",
-                "end": "25:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -32726,27 +29003,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:50",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:10",
-                "end": "21:10",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -32965,17 +29221,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:00",
-                "end": "10:04",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -33098,17 +29343,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:10",
-                "end": "22:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -33215,22 +29449,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:30",
-                "end": "22:30",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -33384,17 +29602,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:10",
-                "end": "21:10",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -33527,17 +29734,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:35",
-                "end": "10:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -33664,22 +29860,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "19:35",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "25:55",
-                "end": "27:55",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -33828,17 +30008,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "16:45",
-                "end": "18:45",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -33925,17 +30094,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "20:40",
-                "end": "22:40",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -34064,17 +30222,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:35",
-                "end": "20:35",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -34192,17 +30339,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:30",
-                "end": "14:30",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -34308,17 +30444,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "15:55",
-                "end": "17:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -34420,32 +30545,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "12:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:45",
-                "end": "21:35",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -34686,22 +30785,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "13:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:20",
-                "end": "22:07",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -34874,27 +30957,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "12:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "17:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:25",
-                "end": "22:15",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -35046,22 +31108,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:40",
-                "end": "21:25",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -35230,27 +31276,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:00",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:25",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:00",
-                "end": "19:51",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -35372,22 +31397,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:30",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "20:05",
-                "end": "21:56",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -35551,22 +31560,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:55",
-                "end": "18:40",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -35693,27 +31686,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:45",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": "20:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -35861,27 +31833,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:10",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "13:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "18:25",
-                "end": "20:15",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -36060,22 +32011,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "14:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "21:15",
-                "end": "23:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -36197,22 +32132,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "17:15",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "19:30",
-                "end": null,
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -36350,17 +32269,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "22:00",
-                "end": "23:50",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -36511,17 +32419,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "9:35",
-                "end": "13:05",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
@@ -36738,22 +32635,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "11:20",
-                "end": null,
-                "past": false
-              },
-              {
-                "start": "16:55",
-                "end": "18:50",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -36881,17 +32762,6 @@
         },
         "schedule": [
           {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "18:05",
-                "end": "20:00",
-                "past": false
-              }
-            ]
-          },
-          {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
             "times": [
@@ -37018,17 +32888,6 @@
           ]
         },
         "schedule": [
-          {
-            "date": "2026-07-24",
-            "displayDate": "7/24（金）",
-            "times": [
-              {
-                "start": "8:50",
-                "end": "10:45",
-                "past": false
-              }
-            ]
-          },
           {
             "date": "2026-07-25",
             "displayDate": "7/25（土）",
